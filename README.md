@@ -1,8 +1,10 @@
-# I am Shwetank Maurya
-**AI Enthusiast & Student**  
-Passionate about Machine Learning, Deep Learning, Generative AI, and Intelligent Agents.  
+I am Shwetank Maurya
 
-*Magic Always happens, but!!!*
+AI Enthusiast | Student | Future-focused Technologist
+
+Passionate about Machine Learning, Deep Learning, Generative AI, and Intelligent Agents. I'm driven by curiosity and a desire to explore how intelligent systems can transform the world we live in. From building models to understanding the theory behind them, I love diving deep into the world of AI and pushing the boundaries of what's possible.
+
+Magic always happens,but!!!
 
 ## 🔗 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shwetank-Maurya)
