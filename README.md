@@ -24,12 +24,13 @@ Passionate about Machine Learning, Deep Learning, Generative AI, and Intelligent
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shwetank-Maurya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![GitHub Snake Light](https://github.com/Shwetank-Maurya/Shwetank-Maurya/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Shwetank-Maurya/Shwetank-Maurya/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shwetank-Maurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![GitHub Snake Light](https://github.com/Shwetank-Maurya/Shwetank-Maurya/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Shwetank-Maurya/Shwetank-Maurya/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <div align="center">
