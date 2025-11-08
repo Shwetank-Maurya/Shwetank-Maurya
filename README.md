@@ -28,4 +28,14 @@ Passionate about Machine Learning, Deep Learning, Generative AI, and Intelligent
 ![](https://github-contributor-stats.vercel.app/api?username=Shwetank-Maurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shwetank-Maurya&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Snake Light](https://github.com/Shwetank-Maurya/Shwetank-Maurya/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Shwetank-Maurya/Shwetank-Maurya/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+<div align="center">
+  
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shwetank-Maurya&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
